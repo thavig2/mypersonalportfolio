@@ -1,6 +1,6 @@
 {
   "name": "personalportfolio",
-  "homepage": "https://thavig2.github.io/portfolio-react",
+  "homepage": "https://thavig2.github.io/mypersonalportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,8 +18,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "yarn build",
-    "deploy": "main -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
