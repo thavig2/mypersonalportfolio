@@ -13,7 +13,7 @@ function Footer() {
           </a>
         </div>
         <div>
-          <a href="https://github.com/thavigs/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/thavig2/" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
           </a>
         </div>
